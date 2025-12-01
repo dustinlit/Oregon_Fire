@@ -3,7 +3,17 @@
 *Author*: Dustin Littlefield\
 *Project Begin Date:* 11/30/2025
 
-**Objective:** A geographic and statistical analysis of variables that contribute to wildfire risk and severity in Oregon.
+**Objective:** A geographic and statistical analysis of variables that contribute to wildfire risk and severity in Oregon. Construct various machine language models (Trees, Neural Networks, Regression) to identify which factors reltate to large and damaging fires.
+
+## Potential factors:
+### Meteorological - `Precipitation` `Evapotranspiration` `Wind` `Humidity` `Temperature` 
+### Topographical - `Slope` `Aspect` `Elevation` 
+### Historical - `Fire Rate` `Recent Fires`
+### Fuel - `Biomass` `Vegetation` ` Canopy Cover` `Land Cover` `NDVI`
+### Firefighting Resources - `Fire Stations` `Roads` `Districts` `Prevention`
+### Human Influence - `WUI` `Pop Density` `Building Footprints` `Powerlines`
+
+
 
 
 ## Data Sources
@@ -18,7 +28,7 @@
 > - Structural Fire Districts: https://data.oregon.gov/dataset/Structural-Fire-Districts/aa5v-9nrh/about_data
 > - Wildfire Related Facilities: https://geohub.oregon.gov/datasets/aac4d63bfa72440eb098563be1648512_0/explore?location=43.921684%2C-120.498075%2C7.63
 
-> ### **Fuel:**
+> ### **Fuel Sources:**
 > - Landfire: https://landfire.gov/data
 > - Existing Vegetation: https://data.oregon.gov/dataset/Existing-Vegetation/e3ii-23iy/about_data
 > - Oregon Statewide Habitat Map: https://data.oregon.gov/dataset/Oregon-Statewide-Habitat-Map/3pct-7uv9/about_data
@@ -33,12 +43,12 @@
 > - Oregon Digital Elevation Model DEM: https://data.oregon.gov/dataset/Oregon-Digital-Elevation-Model-DEM/bi2e-3rqg/about_data
 
 > ### **Land**:
-> - Oregon Wildland Urban Interface: https://data.oregon.gov/dataset/Oregon-Wildland-Urban-Interface/bwu5-3m33/about_data
-> - Building Footprints: https://data.oregon.gov/dataset/Building-Footprints/85h8-pz9v/about_data
-> - All Public Roads: https://data.oregon.gov/dataset/All-Public-Roads/6m5a-2dqh/about_data
-> - Electric Transmission Lines: https://data.oregon.gov/dataset/Electric-Transmission-Lines/ae59-335z/about_data
 > - National Land Cover Database (NLCD) - Oregon: https://geohub.oregon.gov/documents/9bbaa64718774bbfbf5c6ade0edf86d3/about
 > - Level III Ecoregions: https://geohub.oregon.gov/datasets/oregon-geo::level-iii-ecoregions/about
 
-> ### **Demographics**:
+### **Human Influence:**
+> - Oregon Wildland Urban Interface: https://data.oregon.gov/dataset/Oregon-Wildland-Urban-Interface/bwu5-3m33/about_data
+> - All Public Roads: https://data.oregon.gov/dataset/All-Public-Roads/6m5a-2dqh/about_data
+> - Electric Transmission Lines: https://data.oregon.gov/dataset/Electric-Transmission-Lines/ae59-335z/about_data
 > - 2020 Census Block: https://data.oregon.gov/dataset/2020-Census-Block/3jii-ka9k/about_data
+> - Building Footprints: https://data.oregon.gov/dataset/Building-Footprints/85h8-pz9v/about_data
