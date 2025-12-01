@@ -1,6 +1,12 @@
 # Oregon_Fire
 
-## DATA
+*Author*: Dustin Littlefield\
+*Project Begin Date:* 11/30/2025
+
+**Objective:** A geographic and statistical analysis of variables that contribute to wildfire risk and severity in Oregon.
+
+
+## Data Sources
 > ### **Fire:**
 > - Occurence Data: https://data.oregon.gov/Natural-Resources/ODF-Fire-Occurrence-Data-2000-2022/fbwv-q84y/about_data
 > - Oregon Fire Incidents Summary: https://data.oregon.gov/Public-Safety/Oregon-Fire-Incidents-Summary/9dwe-ew6f/about_data
