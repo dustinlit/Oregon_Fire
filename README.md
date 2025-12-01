@@ -6,7 +6,7 @@
 *Project Begin Date:* 11/30/2025
 
 ## **Objective:** 
-Conductions a geographic and statistical analysis of variables that contribute to wildfire risk and severity in Oregon evaluated with various machine language models (Trees, Neural Network, Regression).
+A geographic and statistical analysis of variables that contribute to wildfire risk and severity in Oregon evaluated with various machine language models (Trees, Neural Network, Regression).
 
 
 ## Data Sources:
