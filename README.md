@@ -1,4 +1,6 @@
-# Oregon_Fire
+<h2 style="color:green; text-align:left; font-size:50px; font-weight:bold; text-decoration:underline;">
+  Oregon Wildfire
+</h2>
 
 *Author*: Dustin Littlefield\
 *Project Begin Date:* 11/30/2025
@@ -14,13 +16,21 @@
 ### Human Influence - `WUI` `Pop Density` `Building Footprints` `Powerlines`
 
 
-
-
 ## Data Sources
 > ### **Fire:**
 > - Occurence Data: https://data.oregon.gov/Natural-Resources/ODF-Fire-Occurrence-Data-2000-2022/fbwv-q84y/about_data
 > - Oregon Fire Incidents Summary: https://data.oregon.gov/Public-Safety/Oregon-Fire-Incidents-Summary/9dwe-ew6f/about_data
 > - OSFM Fire Casualties: https://data.oregon.gov/Public-Safety/OSFM-Fire-Casualties/ca7m-e3a3/about_data
+
+> ### **Environmental**
+> - gridMET: https://www.climatologylab.org/gridmet.html
+> - Level III Ecoregions: https://geohub.oregon.gov/datasets/oregon-geo::level-iii-ecoregions/about
+> - Oregon Statewide Habitat Map: https://data.oregon.gov/dataset/Oregon-Statewide-Habitat-Map/3pct-7uv9/about_data
+
+> ### **Raster**:
+> - National Land Cover Database (NLCD) - Oregon: https://geohub.oregon.gov/documents/9bbaa64718774bbfbf5c6ade0edf86d3/about
+> - Oregon Digital Elevation Model DEM: https://data.oregon.gov/dataset/Oregon-Digital-Elevation-Model-DEM/bi2e-3rqg/about_data
+> - NDVI: https://www.ncei.noaa.gov/products/climate-data-records/normalized-difference-vegetation-index
 
 > ### **Firefighting Resources:**
 > - Oregon Fire Agency Demographics: https://data.oregon.gov/Public-Safety/Oregon-Fire-Agency-Demographics/3iw5-dmyy/about_data
@@ -31,19 +41,11 @@
 > ### **Fuel Sources:**
 > - Landfire: https://landfire.gov/data
 > - Existing Vegetation: https://data.oregon.gov/dataset/Existing-Vegetation/e3ii-23iy/about_data
-> - Oregon Statewide Habitat Map: https://data.oregon.gov/dataset/Oregon-Statewide-Habitat-Map/3pct-7uv9/about_data
-> - NDVI: https://www.ncei.noaa.gov/products/climate-data-records/normalized-difference-vegetation-index
 > - Fuel Treatment: https://databasin.org/datasets/90ec02be6bb3475e88dded84d77ec4d3/
 > - Canopy Cover: https://data.fs.usda.gov/geodata/rastergateway/treecanopycover/
 
-> ### **Weather**
+> ### **Environmental**
 > - gridMET: https://www.climatologylab.org/gridmet.html
-
-> ### **Topography**
-> - Oregon Digital Elevation Model DEM: https://data.oregon.gov/dataset/Oregon-Digital-Elevation-Model-DEM/bi2e-3rqg/about_data
-
-> ### **Land**:
-> - National Land Cover Database (NLCD) - Oregon: https://geohub.oregon.gov/documents/9bbaa64718774bbfbf5c6ade0edf86d3/about
 > - Level III Ecoregions: https://geohub.oregon.gov/datasets/oregon-geo::level-iii-ecoregions/about
 
 ### **Human Influence:**
